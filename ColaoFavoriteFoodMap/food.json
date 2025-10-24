@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Jollibee, Manolo Fortich, Bukidnon",
+    "lat": 8.367363,
+    "lng": 124.865279,
+    "description": "Crispylicious ChickenJoy",
+    "image": "https://www.projectlupad.com/wp-content/uploads/2021/12/Jollibee-Manolo-is-now-Open-in-Bukidnon-Copyright-to-Project-LUPAD-4-1024x576.jpg"
+  },
+  {
+    "name": "Minute Burger, Manolo Fortich, Bukidnon",
+    "lat": 8.367543,
+    "lng": 124.864855,
+    "description": "Delicious Burger",
+    "image": "https://images.deliveryhero.io/image/fd-ph/LH/j5od-hero.jpg?width=480&height=360&quality=45"
+  },
+  {
+    "name":"Playfull bistro, Manolo Fortich, Bukidnon",
+    "lat":8.367408, 
+    "lng":124.866445,
+    "description":"Lami kaayo",
+    "image":"https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-6/486601202_1055917949888866_7002434531325466968_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=VgANVm_dQP0Q7kNvwGpPa2o&_nc_oc=Adn4JOVr1xPZiFiXDCVZcv1x1pDhIs-wXIL3MhWlEoNpTSHEZYsxLHkJ6Gi54XuEy1k&_nc_zt=23&_nc_ht=scontent.fdvo2-1.fna&_nc_gid=3ZBvxqaE4J_RHGqNOs5QpA&oh=00_Afcj4MpETZwl-xjvlIP7MTYVg4Ebf-FcMTqotW_2NbvBVw&oe=6901523F"
+  }
+]
